@@ -1,0 +1,24 @@
+/* section title */
+.section-title{
+    color: #2EA4AB;
+    font-size: 30px;
+}
+/* span */
+span{
+    margin-right: 10px;
+}
+/* input */
+input{
+    border: 0;
+    background-color: rgba(128, 128, 128, 0.37);
+    padding-left: 10px;
+}
+/* Button */
+button{
+    padding: 6px 20px;
+    color:  white;
+    border: 0;
+    background-color: #58A5FF;
+    border-radius: 7px;
+    font-size: 20px;
+}
